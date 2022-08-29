@@ -1,4 +1,0 @@
-This is a new file
-I just created for testing purpose
-i like git
-thank you
